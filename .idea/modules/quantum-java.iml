@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="quantum-java" external.linked.project.path="$MODULE_DIR$/../../../Iris/quantum-java" external.root.project.path="$MODULE_DIR$/../../../Iris/quantum-java" external.system.id="GRADLE" external.system.module.group="art.arcane" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_16" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../Iris/quantum-java">
+      <excludeFolder url="file://$MODULE_DIR$/../../../Iris/quantum-java/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../Iris/quantum-java/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
