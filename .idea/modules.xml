@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/quantum-dart/quantum-dart.iml" filepath="$PROJECT_DIR$/quantum-dart/quantum-dart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quantum-java.iml" filepath="$PROJECT_DIR$/.idea/modules/quantum-java.iml" />
     </modules>
   </component>
 </project>
