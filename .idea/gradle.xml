@@ -5,23 +5,10 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../Iris/quantum-java" />
-        <option name="gradleJvm" value="1.8" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/quantum-java" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../Iris/quantum-java" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../quantum-java" />
-        <option name="gradleJvm" value="1.8" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/../quantum-java" />
+            <option value="$PROJECT_DIR$/quantum-java" />
           </set>
         </option>
       </GradleProjectSettings>
